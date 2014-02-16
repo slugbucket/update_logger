@@ -1,0 +1,3 @@
+module UpdateLogger
+  VERSION = "0.0.2"
+end
